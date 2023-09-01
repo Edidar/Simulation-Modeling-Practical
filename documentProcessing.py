@@ -18,7 +18,6 @@ cumT.insert(0,ft[0])
 bt.insert(0,0)
 nj.append(random.randint(51,59))
 nd.insert(0,0)
-i =1;
 for i in range (1,(n+1)):
     n =random.randint(0,1)
     bt.append(n)
