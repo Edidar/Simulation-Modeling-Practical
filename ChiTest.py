@@ -5,6 +5,7 @@ for _ in range(0,100,1):
     t1 = float(t[0:4])
     s.append(t1)
 
+
 ct1=ct2=ct3=ct4=ct5=ct6=ct7=ct8=ct9=ct10=0
 for i in range(0,100,1):
     if s[i]>=0 and s[i]<=0.1:
